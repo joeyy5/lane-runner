@@ -4,7 +4,7 @@ A simple browser-based "subway surfer"-style 3-lane runner game. Dodge obstacles
 
 ## Play
 
-Live demo: `https://<your-username>.github.io/lane-runner/`
+Live demo: `https://<joeyy5>.github.io/lane-runner/`
 
 ## Controls
 
